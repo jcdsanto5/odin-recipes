@@ -9,3 +9,8 @@ This is a project of creating a recipe through HTML.
 
 
 Added the structure of the main website with adding links to the dishes webpage represented.
+
+Last Updated: March 10th/23
+
+Added 2 linked recipes on to the webpage (index.html)
+lumpia and greek-salad
