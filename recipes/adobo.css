@@ -1,0 +1,24 @@
+#description {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(247, 160, 0)
+
+}
+
+*{
+    background-color:rgb(0, 0, 0);
+}
+
+.ingredients {
+    font-family:Arial, Helvetica, sans-serif;
+    color: whitesmoke
+}
+
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke
+}
+
+.steps{
+    font-family:Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+}

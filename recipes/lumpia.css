@@ -1,0 +1,16 @@
+.title {
+font-size: large;
+color: rgb(214, 163, 32);
+font-family:'Times New Roman', Times, serif;
+margin: center
+}
+
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    margin: center
+}
+
+* {
+    background-color:black
+}
