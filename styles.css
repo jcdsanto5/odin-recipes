@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(236, 250, 46) ;
+    background-color: rgb(0, 0, 0);
+    margin:auto;
+    padding:auto;
+    display: block;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+a {
+    color: red
+}
